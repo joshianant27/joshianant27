@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @joshianant27
-- 👀 I’m interested in Data Analytics, Data Visualization, UI/UX design and Python
-- 🌱 I’m currently learning The Complete Data Structures and Algorithms Course in Python by Elshad Karimov at Udemy
-- 📫 Reach me at joshianant27@gmail.com
+Hello! I'm Anant Joshi, currently advancing my journey through a Master's program in Business Analytics and Data Science. With a profound passion for unraveling the stories hidden within data, I am dedicated to leveraging analytics and data science to drive insightful decisions and innovative solutions. My journey is about more than just numbers; it's about the impact that informed, data-driven strategies can have on businesses and communities alike. Welcome to my GitHub, where I share projects that showcase my skills and dedication to transforming data into actionable insights.
+Reach me at anant.joshi@okstate.edu.
 
 <!---
 joshianant27/joshianant27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
