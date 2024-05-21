@@ -13,9 +13,95 @@
 
 # :sparkler: My Badges and Certificates
 
-![image](https://github.com/joshianant27/joshianant27/assets/82677496/35506828-4707-4ebb-a922-2a84ed4902e8)
-### <br> Associate Certified Analytics Professional (aCAP) certificate awarded by INFORMS</br>
+### INFORMS
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://bcert.me/softrnhti">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/a6ca1e9d-a34e-43a3-9968-ebecb06fffd8" alt="Associate Certified Analytics Professional (aCAP)" width="150">
+      </a>
+      <br>Associate Certified Analytics Professional (aCAP)
+    </td>
+  </tr>
+</table>
 
+## Tableau
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e4d6c503-8741-4cb5-9e55-95c3a1613c75/linked_in?t=s57osn">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/546c6e86-8284-4e44-b845-99080de66c3f" alt="Tableau Desktop Specialist" width="150">
+      </a>
+      <br>Tableau Desktop Specialist
+    </td>
+  </tr>
+</table>
+
+## Supply Chain Design
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/joshianant27/joshianant27/assets/82677496/63d22de9-27ee-44e7-9718-57238a218451" alt="Supply Chain Design from Coupa University" width="150">
+      <br>Supply Chain Design from Coupa University
+    </td>
+  </tr>
+</table>
+
+## Coursera Badges
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/2b4084b8-c38d-4b0a-b673-752e721ef494/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/d857d260-30c2-4e73-9eb0-116dc0f54128" alt="Applied Data Science Capstone" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a12f0095-21a8-4451-acf3-300236a1541f/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/1152aca4-42a0-4899-a9ff-1e99e9011285" alt="Machine Learning with Python" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/940b5379-6aa9-4a81-b57d-7a860fa2d1f6/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/d849cee9-1d45-4256-8003-80b92ad41e80" alt="Data Visualization with Python" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/5e19c1fb-b7f5-4032-9a29-c118156fff50/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/9c6fdc67-204b-4e40-afd6-130f01e98e5c" alt="Data Analysis with Python" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1fced8ce-5083-4461-af44-bfcb3adc094b/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/812e245c-a44f-4a0e-a508-12181a3ea8d3" alt="Databases and SQL for Data Science" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/fdfc94eb-1045-4110-b909-321c749282ce/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/740db718-b9cd-4499-840d-7c1ee7648eb7" alt="Python for Data Science and AI" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a245f5ec-5fa3-4d54-8ea8-34a8c229157b/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/4d946ca3-6ad2-4874-b18d-6a3fac57e0f7" alt="Data Science Methodology" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9c51593b-a34a-4677-885a-e0a9c0068a5e/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/a6aa47c0-ed1c-4e45-806d-3d7afe726cea" alt="Tools for Data Science" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/5919d7c2-a01a-4ff5-8ac3-ef12ac957750/public_url">
+        <img src="https://github.com/joshianant27/joshianant27/assets/82677496/dac12917-63d6-4ea3-8d15-c767b47a48dc" alt="Data Science Orientation" width="150">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=joshianant27&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
