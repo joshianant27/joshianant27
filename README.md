@@ -108,10 +108,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joshianant27&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshianant27&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Interested in a Dev Quote?
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Or a meme?
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
