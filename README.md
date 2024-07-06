@@ -111,9 +111,6 @@
 ### ✍️ Interested in a Dev Quote?
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Or a meme?
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=joshianant27&icon=0&color=0)](https://visitcount.itsvg.in)
 
